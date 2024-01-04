@@ -31,7 +31,11 @@ graph TD
 
   F---|Examples| O[CockroachDB]
   F---|Examples| P[ArangoDB]
+<<<<<<< HEAD
+```
+=======
 
   G---|Examples| S[InfluxDB]
 
   ```
+>>>>>>> a78c7e31022020dc122c814604250d1fe7bf8adb
